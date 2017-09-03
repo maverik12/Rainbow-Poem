@@ -1,9 +1,10 @@
-Rainbow
+Rainbow Poem
 -----------------------------------
-V
-I
-B
-G
-Y
-O
-R
+Violet 
+Indigo
+Blue
+Yelow
+Orange
+Red
+
+This is my rainbow poem
